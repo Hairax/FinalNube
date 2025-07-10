@@ -12,8 +12,13 @@
   },
   "dependencies": {
     "bun-plugin-tailwind": "^0.0.14",
+    "cloudinary-react": "^1.8.1",
+    "firebase": "^11.10.0",
+    "firebaseui": "^6.1.0",
     "react": "^19",
     "react-dom": "^19",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.6.3",
     "tailwindcss": "^4.0.6"
   },
   "devDependencies": {
